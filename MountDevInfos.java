@@ -1,4 +1,4 @@
-package cn.seacat.lwdownload;
+package com.github;
 
 import java.io.BufferedReader;
 import java.io.File;
